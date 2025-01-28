@@ -3,7 +3,7 @@ layout: default
 title: Modernist Theme Test
 ---
 
-#Introduction <br>
+# <span style="color:#0366d6; font-size:2.5em;">Introduction</span> <br>
 Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Computer Science Program August 2023. This portfolio is to showcase my skills for my Capstone Project and enhancements that demonstrate my growth as a developer. My area of specialization is preferrably App Development. Here you'll find a detailed look at my work, including the enhancement of an Event Planning app I originally built for my CS360 Mobile Architect & Programming class, that demonstrate Software Design and Engineering, Algorithms and Data Structure, and Databases. 
 
 #Description of the App <br>
@@ -18,7 +18,7 @@ Enhancements have been made to ensure the app not only functions as expected but
 I enhanced the app by improving database management, input validation, security, UI/UX, exception handling, and overall code quality. While SQLite was used for local storage, groundwork was laid to migrate to Firebase for real-time capabilities. I added robust validation for user credentials and event details to ensure proper input formatting and secure data storage by switching to EncryptedSharedPreferences. UI feedback was improved by replacing toast messages with snackbars for better visibility, and comprehensive error handling was introduced to prevent crashes and provide clear messages for issues. The transition from Java to Kotlin modernized the codebase, making it more concise and maintainable. This process taught me the importance of balancing security, usability, and maintainability while adapting to new technologies. <br>
 
 #Repository Link <br>
-<a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self">Enhancement One: Software Design and Engineering</a>
+<a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self">Enhancement One: Software Design and Engineering</a> <br>
 
 #Enhancement Two <br>
 
