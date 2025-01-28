@@ -17,7 +17,7 @@ Enhancements have been made to ensure the app not only functions as expected but
 # <span style="color:#0366d6; font-size:2em;">Enhancement One</span> <br>
 I enhanced the app by improving database management, input validation, security, UI/UX, exception handling, and overall code quality. While SQLite was used for local storage, groundwork was laid to migrate to Firebase for real-time capabilities. I added robust validation for user credentials and event details to ensure proper input formatting and secure data storage by switching to EncryptedSharedPreferences. UI feedback was improved by replacing toast messages with snackbars for better visibility, and comprehensive error handling was introduced to prevent crashes and provide clear messages for issues. The transition from Java to Kotlin modernized the codebase, making it more concise and maintainable. This process taught me the importance of balancing security, usability, and maintainability while adapting to new technologies. <br>
 
-#Repository Link <br>
+# <span style="color:#0366d6; font-size:2em;">Repository Link <br>
 <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self">Enhancement One: Software Design and Engineering</a> <br>
 
 # <span style="color:#0366d6; font-size:2em;">Enhancement Two <br>
