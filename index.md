@@ -12,13 +12,13 @@ The Event Planning App is a mobile application designed to help users manage and
 Enhancements have been made to ensure the app not only functions as expected but also adheres to industry standards for software design, database management, and user experience. Future improvements, such as integrating Firebase for real-time data synchronization and adding advanced features like event prioritization and filtering, are planned to take the app’s functionality to the next level. This app showcases my ability to develop and enhance mobile applications while demonstrating skills in software engineering, UI/UX design, and database management. It serves as a reflection of my growth as a developer and my dedication to creating user-centered, secure, and maintainable solutions.
 
 # <span style="color:#0066CC; font-size:1em;">Code Review</span> <br>
-<a href="https://youtu.be/zeWQIATf0QI" target="_self">Code Review Youtube Link</a>
+<a href="https://youtu.be/zeWQIATf0QI" target="_self"><b>Code Review Youtube Link</b></a>
 
 # <span style="color:#0066CC; font-size:1em;">Enhancement One</span> <br>
 I enhanced the app by improving database management, input validation, security, UI/UX, exception handling, and overall code quality. While SQLite was used for local storage, groundwork was laid to migrate to Firebase for real-time capabilities. I added robust validation for user credentials and event details to ensure proper input formatting and secure data storage by switching to EncryptedSharedPreferences. UI feedback was improved by replacing toast messages with snackbars for better visibility, and comprehensive error handling was introduced to prevent crashes and provide clear messages for issues. The transition from Java to Kotlin modernized the codebase, making it more concise and maintainable. This process taught me the importance of balancing security, usability, and maintainability while adapting to new technologies. <br>
 
 # <span style="color:#0066CC; font-size:0.8em;">Repository Link <br>
-<a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self">Enhancement One: Software Design and Engineering</a> <br>
+<a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Enhancement One: Software Design and Engineering</b></a> <br>
 
 # <span style="color:#0066CC; font-size:1em;">Enhancement Two <br>
 
