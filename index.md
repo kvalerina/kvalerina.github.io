@@ -11,7 +11,9 @@ Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Comput
 # <span style="color:#1773a0; font-size:1em;">Description of the App</span> <br>
 <span style="font-size:1.2em">
 The Event Planning App is a mobile application designed to help users manage and organize their events efficiently. This app has evolved significantly since it's original implementation, through enhancements focused on improving functionality, security, and user experience. Originally written in Java, the app has been converted to Kotlin, leveraging modern language features like null safety, concise syntax, and improved maintainability. The app allows users to perform essential tasks such as creating, updating, and deleting events, with data stored securly in Firebase. <br>
+</span>
 
+<span style="font-size:1.2em">
 Enhancements have been made to ensure the app not only functions as expected but also adheres to industry standards for software design, database management, and user experience. Future improvements, such as integrating Firebase for real-time data synchronization and adding advanced features like event prioritization and filtering, are planned to take the app’s functionality to the next level. This app showcases my ability to develop and enhance mobile applications while demonstrating skills in software engineering, UI/UX design, and database management. It serves as a reflection of my growth as a developer and my dedication to creating user-centered, secure, and maintainable solutions.
 </span>
 
