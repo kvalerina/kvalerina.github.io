@@ -4,9 +4,9 @@ title: Modernist Theme Test
 ---
 
 # <span style="color:#1773a0; font-size:1em;">Introduction</span> <br>
-<span style="font-size:1.2em">
+<p style="font-size: 1.2em; text-align: justify;">
 Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Computer Science Program August 2023. This portfolio is to showcase my skills for my Capstone Project and enhancements that demonstrate my growth as a developer. My area of specialization is preferrably App Development. Here you'll find a detailed look at my work, including the enhancement of an Event Planning app I originally built for my CS360 Mobile Architect & Programming class, that demonstrate Software Design and Engineering, Algorithms and Data Structure, and Databases. 
-</span>
+</p>
 
 # <span style="color:#1773a0; font-size:1em;">Description of the App</span> <br>
 <span style="font-size:1.2em">
