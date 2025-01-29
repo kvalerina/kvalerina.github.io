@@ -4,38 +4,38 @@ title: Modernist Theme Test
 ---
 
 # <span style="color:#1773a0; font-size:1em;">Introduction</span> <br>
-<span style="font-size:1.2em"> <p style="text-align: justify;">
+<span style="font-size:1.2em">
 Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Computer Science Program August 2023. This portfolio is to showcase my skills for my Capstone Project and enhancements that demonstrate my growth as a developer. My area of specialization is preferrably App Development. Here you'll find a detailed look at my work, including the enhancement of an Event Planning app I originally built for my CS360 Mobile Architect & Programming class, that demonstrate Software Design and Engineering, Algorithms and Data Structure, and Databases. 
-</span> </p>
+</span>
 
 # <span style="color:#1773a0; font-size:1em;">Description of the App</span> <br>
-<span style="font-size:1.2em"> <p style="text-align: justify;">
+<span style="font-size:1.2em">
 The Event Planning App is a mobile application designed to help users manage and organize their events efficiently. This app has evolved significantly since it's original implementation, through enhancements focused on improving functionality, security, and user experience. Originally written in Java, the app has been converted to Kotlin, leveraging modern language features like null safety, concise syntax, and improved maintainability. The app allows users to perform essential tasks such as creating, updating, and deleting events, with data stored securly in Firebase. <br>
-</span> </p>
+</span>
 
-<span style="font-size:1.2em"> <p style="text-align: justify;">
+<span style="font-size:1.2em">
 Enhancements have been made to ensure the app not only functions as expected but also adheres to industry standards for software design, database management, and user experience. Future improvements, such as integrating Firebase for real-time data synchronization and adding advanced features like event prioritization and filtering, are planned to take the app’s functionality to the next level. This app showcases my ability to develop and enhance mobile applications while demonstrating skills in software engineering, UI/UX design, and database management. It serves as a reflection of my growth as a developer and my dedication to creating user-centered, secure, and maintainable solutions.
-</span> </p>
+</span>
 
 # <span style="color:#1773a0; font-size:1em;">Code Review</span> <br>
 - <a href="https://youtu.be/zeWQIATf0QI" target="_self"><b>Code Review Youtube Link</b></a>
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement One</span> <br>
-<span style="font-size:1.2em"> <p style="text-align: justify;">
+<span style="font-size:1.2em">
 I enhanced the app by improving database management, input validation, security, UI/UX, exception handling, and overall code quality. While SQLite was used for local storage, groundwork was laid to migrate to Firebase for real-time capabilities. I added robust validation for user credentials and event details to ensure proper input formatting and secure data storage by switching to EncryptedSharedPreferences. UI feedback was improved by replacing toast messages with snackbars for better visibility, and comprehensive error handling was introduced to prevent crashes and provide clear messages for issues. The transition from Java to Kotlin modernized the codebase, making it more concise and maintainable. This process taught me the importance of balancing security, usability, and maintainability while adapting to new technologies. <br>
-</span> </p>
+</span>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
 - <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Enhancement One: Software Design and Engineering</b></a> <br>
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement Two <br>
-<span style="font-size:1.2em"> <p style="text-align: justify;">
+<span style="font-size:1.2em">
 </span> </p>
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement Three <br>
-<span style="font-size:1.2em"> <p style="text-align: justify;">
-</span> </p>
+<span style="font-size:1.2em">
+</span> 
 
 # <span style="color:#1773a0; font-size:1em;">Professional Self-Assessment
-<span style="font-size:1.2em"> <p style="text-align: justify;">
-</span> </p>
+<span style="font-size:1.2em">
+</span> 
