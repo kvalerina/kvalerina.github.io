@@ -5,7 +5,7 @@ title: Modernist Theme Test
 
 # <span style="color:#1773a0; font-size:1em;">Introduction</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
-Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Computer Science Program August 2023. This portfolio is to showcase my skills for my Capstone Project and enhancements that demonstrate my growth as a developer. My area of specialization is preferrably App Development. Here you'll find a detailed look at my work, including the enhancement of an Event Planning app I originally built for my CS360 Mobile Architect & Programming class, that demonstrate Software Design and Engineering, Algorithms and Data Structure, and Databases. 
+Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Computer Science Program August 2023. This portfolio is to showcase my skills for my Capstone Project and enhancements that demonstrate my growth as a developer. My preferred area of specialization is App Development. Here you'll find a detailed look at my work, including the enhancements of an Event Planning app I originally built for my CS360 Mobile Architect & Programming class, that demonstrates Software Design and Engineering, Algorithms and Data Structure, and Databases. 
 </p>
 
 # <span style="color:#1773a0; font-size:1em;">Description of the App</span> <br>
@@ -14,7 +14,7 @@ The Event Planning App is a mobile application designed to help users manage and
 </p>
 
 <p style="font-size: 1.2em; text-align: justify;">
-Enhancements have been made to ensure the app not only functions as expected but also adheres to industry standards for software design, database management, and user experience. Future improvements, such as integrating Firebase for real-time data synchronization and adding advanced features like event prioritization and filtering, are planned to take the app’s functionality to the next level. This app showcases my ability to develop and enhance mobile applications while demonstrating skills in software engineering, UI/UX design, and database management. It serves as a reflection of my growth as a developer and my dedication to creating user-centered, secure, and maintainable solutions.
+Enhancements have been made to ensure the app not only functions as expected but also adheres to industry standards for software design, database management, and user experience. The app has been improved by transitioning from a single, ongoing list of events to separate daily and monthly views, providing users with more organized and intuitive access to their schedules. Integrating Firebase for real-time data synchronization and adding advanced features like event prioritization and filtering, will take the app’s functionality to the next level. This app showcases my ability to develop and enhance mobile applications while demonstrating skills in software engineering, UI/UX design, and database management. It serves as a reflection of my growth as a developer and my dedication to creating user-centered, secure, and maintainable solutions.
 </p>
 
 # <span style="color:#1773a0; font-size:1em;">Code Review</span> <br>
