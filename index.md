@@ -18,8 +18,13 @@ Enhancements have been made to ensure the app not only functions as expected but
 </p>
 
 # <span style="color:#1773a0; font-size:1em;">Code Review</span> <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zeWQIATf0QI?si=LYLm3LlUChoxMCWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br>
-- <a href="https://youtu.be/zeWQIATf0QI" target="_self"><b>Code Review Youtube Link</b></a>
+<div style="display: flex; justify-content: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zeWQIATf0QI?si=LYLm3LlUChoxMCWU" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+        encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+</div>
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement One</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
