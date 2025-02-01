@@ -25,6 +25,7 @@ Enhancements have been made to ensure the app not only functions as expected but
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
     </iframe>
 </div>
+<br>
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement One</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
