@@ -30,14 +30,29 @@ Enhancements have been made to ensure the app not only functions as expected but
 # <span style="color:#1773a0; font-size:1em;">Enhancement One</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
 I enhanced the app by improving database management, input validation, security, UI/UX, exception handling, and overall code quality. While SQLite was used for local storage, groundwork was laid to migrate to Firebase for real-time capabilities. I added robust validation for user credentials and event details to ensure proper input formatting and secure data storage by switching to EncryptedSharedPreferences. UI feedback was improved by replacing toast messages with snackbars for better visibility, and comprehensive error handling was introduced to prevent crashes and provide clear messages for issues. The transition from Java to Kotlin modernized the codebase, making it more concise and maintainable. This process taught me the importance of balancing security, usability, and maintainability while adapting to new technologies. <br>
-</p>
+</p> <br>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
 - <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Enhancement One: Software Design and Engineering</b></a> <br>
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement Two <br>
 <p style="font-size: 1.2em; text-align: justify;">
-</p>
+One of the biggest improvements I made to my Event Planning app was refining how events are displayed. Before, everything was cluttered together, making it hard to see what was actually scheduled. Now, there’s a daily view that shows only the current day's events and a monthly view that lets users browse their schedule at a glance. To prevent any confusion, I added a "No Events Scheduled" message so users aren’t left wondering if something is broken. I also introduced sorting options that let users organize events by time or priority, ensuring that the event list updates in real time when a sorting option is selected. The search function got a big upgrade too—it now includes all events, allowing users to quickly find what they’re looking for without endless scrolling. To keep things clean, I rearranged the UI, placing the sort and search functions together, adding a footer button for easy monthly view access, and removing unnecessary files like GroupedEventAdapter and event_group_card.xml.
+<br>
+A small but meaningful change was adding a dynamic greeting message at the top of the daily view, which greets users with "Good morning," "Good afternoon," or "Good evening," based on the time of day. To make it more personal, the app pulls the correct logged-in username instead of using a generic placeholder. Getting all the popups and dropdowns to function properly took some extra work, but now everything—searching, sorting, navigation, and popups—is smooth and intuitive. This enhancement really strengthened my skills in algorithms and data structures, especially when it came to organizing event data, implementing real-time sorting, and making sure the app’s features were both functional and user-friendly.
+</p> <br>
+
+# <span style="color:#1773a0; font-size:1em;">App Review</span> <br>
+<div style="display: flex; justify-content: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nJ9i_YvmYKk?si=HH3r-GVpTQ6eKF8W" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+        encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+
+# <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
+- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Enhancement Two: Algorithms and Data Structures</b></a> <br>
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement Three <br>
 <p style="font-size: 1.2em; text-align: justify;">
