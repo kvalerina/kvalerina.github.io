@@ -30,7 +30,7 @@ Enhancements have been made to ensure the app not only functions as expected but
 # <span style="color:#1773a0; font-size:1em;">Enhancement One</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
 I enhanced the app by improving database management, input validation, security, UI/UX, exception handling, and overall code quality. While SQLite was used for local storage, groundwork was laid to migrate to Firebase for real-time capabilities. I added robust validation for user credentials and event details to ensure proper input formatting and secure data storage by switching to EncryptedSharedPreferences. UI feedback was improved by replacing toast messages with snackbars for better visibility, and comprehensive error handling was introduced to prevent crashes and provide clear messages for issues. The transition from Java to Kotlin modernized the codebase, making it more concise and maintainable. This process taught me the importance of balancing security, usability, and maintainability while adapting to new technologies. <br>
-</p> <br>
+</p>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
 - <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Enhancement One: Software Design and Engineering</b></a> <br>
@@ -56,7 +56,11 @@ A small but meaningful change was adding a dynamic greeting message at the top o
 
 # <span style="color:#1773a0; font-size:1em;">Enhancement Three <br>
 <p style="font-size: 1.2em; text-align: justify;">
-</p>
+Moving the database to Firebase highlights my skills in working with modern, cloud-based technologies and improving the app’s functionality. By incorporating Firebase Firestore and Firebase Authentication, I’ve enhanced the app’s data handling and security, which are important aspects of software development. Firebase Firestore enables seamless, real-time synchronization of data, so users can access their event information from multiple devices simultaneously, without delay. Firebase Authentication ensures that user data is protected with secure login processes, which was important for ensuring the safety of personal information. The app has been improved by streamlining the data storage process and eliminating the need for local storage management With Firebase, I was able to create a more flexible and scalable app that not only meets the needs of individual users but also has the capability to handle a larger user base and accommodate future growth. The cloud-based architecture provides better performance and eliminates the limitations of traditional local storage, making the app more efficient and user-friendly.
+</p> <br>
+
+# <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
+- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%203.zip" target="_self"><b>Enhancement Three: Databases</b></a> <br>
 
 # <span style="color:#1773a0; font-size:1em;">Professional Self-Assessment
 <p style="font-size: 1.2em; text-align: justify;">
