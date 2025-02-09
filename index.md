@@ -5,8 +5,12 @@ title: Modernist Theme Test
 
 # <span style="color:#1773a0; font-size:1em;">Introduction</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
-Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Computer Science Program August 2023. This portfolio is to showcase my skills for my Capstone Project and enhancements that demonstrate my growth as a developer. My preferred area of specialization is App Development. Here you'll find a detailed look at my work, including the enhancements of an Event Planning app I originally built for my CS360 Mobile Architect & Programming class, that demonstrates Software Design and Engineering, Algorithms and Data Structure, and Databases. 
+Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Computer Science Program August 2023. This portfolio is to showcase my skills for my Capstone Project and enhancements that demonstrate my growth as a developer. My preferred area of specialization is App Development. Here you'll find a detailed look at my work, including the enhancements of an Event Planning app I originally built for my CS360 Mobile Architect & Programming class, that demonstrates Software Design and Engineering, Algorithms and Data Structure, and Databases. <br>
 </p>
+
+# <span style="color:#1773a0; font-size:1em;">Professional Self-Assessment
+<p style="font-size: 1.2em; text-align: justify;">
+</p> <br>
 
 # <span style="color:#1773a0; font-size:1em;">Description of the App</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
@@ -63,8 +67,4 @@ Moving the database to Firebase highlights my skills in working with modern, clo
 </p> <br>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
-- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%203.zip" target="_self"><b>Enhancement Three: Databases</b></a> <br>
-
-# <span style="color:#1773a0; font-size:1em;">Professional Self-Assessment
-<p style="font-size: 1.2em; text-align: justify;">
-</p>
+- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%203.zip" target="_self"><b>Enhancement Three: Databases</b></a>
