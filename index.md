@@ -13,12 +13,12 @@ Hello my name is Karina Aronov. I started at SNHU June 2022 and began the Comput
 The Event Planning App is a mobile application designed to help users manage and organize their events efficiently. This app has evolved significantly since it's original implementation, through enhancements focused on improving functionality, security, and user experience. Originally written in Java, the app has been converted to Kotlin, leveraging modern language features like null safety, concise syntax, and improved maintainability. The app allows users to perform essential tasks such as creating, updating, and deleting events, with data stored securly in Firebase. <br>
 </p>
 
-# <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
-- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Original Code</b></a> <br>
-
 <p style="font-size: 1.2em; text-align: justify;">
 Enhancements have been made to ensure the app not only functions as expected but also adheres to industry standards for software design, database management, and user experience. The app has been improved by transitioning from a single, ongoing list of events to separate daily and monthly views, providing users with more organized and intuitive access to their schedules. Integrating Firebase for real-time data synchronization and adding advanced features like event prioritization and filtering, will take the app’s functionality to the next level. This app showcases my ability to develop and enhance mobile applications while demonstrating skills in software engineering, UI/UX design, and database management. It serves as a reflection of my growth as a developer and my dedication to creating user-centered, secure, and maintainable solutions.
 </p>
+
+# <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
+- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Original Code</b></a> <br>
 
 # <span style="color:#1773a0; font-size:1em;">Code Review</span> <br>
 <div style="display: flex; justify-content: center;">
