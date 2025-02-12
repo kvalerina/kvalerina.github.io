@@ -65,15 +65,6 @@ Through this process, I learned a lot about how to optimize app performance whil
 
 </p> <br>
 
-# <span style="color:#1773a0; font-size:1em;">App Review</span> <br>
-<div style="display: flex; justify-content: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nJ9i_YvmYKk?si=HH3r-GVpTQ6eKF8W" 
-        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-        encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<br>
-
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
 - <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Enhancement Two: Algorithms and Data Structures</b></a> <br>
 
@@ -87,3 +78,14 @@ During the process of migrating the database, I faced several challenges, partic
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
 - <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%203.zip" target="_self"><b>Enhancement Three: Databases</b></a>
+
+<br>
+
+# <span style="color:#1773a0; font-size:1em;">App Review</span> <br>
+<div style="display: flex; justify-content: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nJ9i_YvmYKk?si=HH3r-GVpTQ6eKF8W" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+        encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
