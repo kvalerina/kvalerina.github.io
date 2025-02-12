@@ -81,7 +81,7 @@ During the process of migrating the database, I faced several challenges, partic
 
 <br>
 
-# <span style="color:#1773a0; font-size:1em;">App Review</span> <br>
+# <span style="color:#1773a0; font-size:1em;">App Demo</span> <br>
 <div style="display: flex; justify-content: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nJ9i_YvmYKk?si=HH3r-GVpTQ6eKF8W" 
         title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
