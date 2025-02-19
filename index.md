@@ -23,7 +23,7 @@ Another important area of focus in my project has been database management. I've
 <br><br>
 Working on my ePortfolio allowed me to reflect on my achievements, identify areas for improvement, and highlight my professional goals. As I move forward, I am confident that the skills and knowledge I’ve gained will allow me to succeed in the tech industry. My goal is to continue to grow as a developer, contribute to meaningful software projects, and eventually specialize in areas like mobile app development and cloud technologies. I look forward to utilizing my expertise and abilities as I enter the workforce and continue to develop innovative solutions in the ever-evolving field of computer science.
 
-</p> <br>
+</p>
 
 # <span style="color:#1773a0; font-size:1em;">Description of the App</span> <br>
 <p style="font-size: 1.2em; text-align: justify;">
@@ -37,7 +37,7 @@ The app now offers a daily and monthly view, giving users a clearer overview of 
 </p>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
-- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Original Code</b></a> <br>
+- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Original Code</b></a>
 
 # <span style="color:#1773a0; font-size:1em;">Code Review</span> <br>
 <div style="display: flex; justify-content: center;">
@@ -65,7 +65,7 @@ I included the Event Planning app in my ePortfolio because it showcases the prog
 <br><br>
 Through this process, I learned a lot about how to optimize app performance while keeping the user experience smooth and intuitive. One of the biggest challenges was getting the sorting and search features to work in real-time and ensuring all UI components interacted seamlessly. I spent time refining the logic behind the sorting and troubleshooting popups and dropdowns to improve the app’s usability. This experience deepened my understanding of how to think critically about app design and made me more confident in improving app functionality. 
 
-</p> <br>
+</p>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
 - <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Enhancement Two: Algorithms and Data Structures</b></a> <br>
@@ -76,7 +76,7 @@ I chose to include the Event Planning app in my ePortfolio because it highlights
 <br><br>
 During the process of migrating the database, I faced several challenges, particularly with effectively organizing the data and ensuring the app continued to function properly during the transfer. One of the biggest challenges was integrating Firebase Authentication, which required some troubleshooting to ensure secure user login. Additionally, I had to make sure the real-time data syncing didn’t cause delays or affect performance. Overcoming these problems gave me deeper insights into cloud storage and Firebase’s capabilities. The experience helped me meet my goals of improving the app’s database management and functionality, and I look forward to exploring more advanced Firebase features in future projects.
 
-</p> <br>
+</p>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
 - <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%203.zip" target="_self"><b>Enhancement Three: Databases</b></a>
@@ -87,4 +87,3 @@ During the process of migrating the database, I faced several challenges, partic
 <div style="display: flex; justify-content: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nJ9i_YvmYKk?si=FxTH_KwCWbaP36fM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<br>
