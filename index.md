@@ -33,7 +33,7 @@ The app now offers a daily and monthly view, giving users a clearer overview of 
 </p><br>
 
 <p style="font-size: 1.2em; text-align: justify;">
-Enhancements have been made to ensure the app not only functions as expected but also adheres to industry standards for software design, database management, and user experience. The app has been improved by transitioning from a single, ongoing list of events to separate daily and monthly views, providing users with more organized and intuitive access to their schedules. Integrating Firebase for real-time data synchronization and adding advanced features like event prioritization and filtering, will take the app’s functionality to the next level. This app showcases my ability to develop and enhance mobile applications while demonstrating skills in software engineering, UI/UX design, and database management. It serves as a reflection of my growth as a developer and my dedication to creating user-centered, secure, and maintainable solutions.
+
 </p>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
