@@ -30,10 +30,6 @@ Working on my ePortfolio allowed me to reflect on my achievements, identify area
 The Event Planning App is a tool designed to help users efficiently manage and organize their events. It began as a simple event tracker, but has evolved into a more dynamic and user-friendly platform. The transition from Java to Kotlin has improved the app's maintainability, with modern features like null safety and more concise syntax. One of the significant changes was moving from SQLite to Firebase Firestore, allowing real-time data synchronization and enhancing scalability for future growth. This switch also improved data security, as Firebase Authentication was integrated for secure user logins.
 <br><br>
 The app now offers a daily and monthly view, giving users a clearer overview of their events and helping them navigate their schedules with ease. Additionally, features like event prioritization and filtering were added to streamline task management. These enhancements not only improved the app’s functionality but also aligned it with best practices in software engineering and design. Through this project, I've sharpened my skills in database management, UI/UX design, and cloud technologies. It reflects my growth as a developer and my commitment to creating practical, scalable solutions that focus on meeting user needs.
-</p><br>
-
-<p style="font-size: 1.2em; text-align: justify;">
-
 </p>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
