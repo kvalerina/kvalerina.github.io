@@ -34,7 +34,7 @@ The app focuses on providing an intuitive interface, allowing users to quickly a
 </p>
 
 # <span style="color:#1773a0; font-size:0.8em;">Repository Link <br>
-- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Enhancement%201.zip" target="_self"><b>Original Code</b></a>
+- <a href="https://github.com/kvalerina/kvalerina.github.io/blob/main/Event%20Planning%20Original%20Code.zip" target="_self"><b>Original Code</b></a>
 
 # <span style="color:#1773a0; font-size:1em;">Code Review</span> <br>
 <div style="display: flex; justify-content: center;">
